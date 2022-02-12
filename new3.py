@@ -14,14 +14,14 @@ start_time = time.time()
 
 count_hash = {}
 
-logfile = open('wifiscanner.log','r')
+logfile = open('probemon.log','r')
 
 
 
 def get_macs(lines):
     macs = []
     for line in lines:
-        macs.append(line.strip("\n")[52:69])
+        macs.append(line.strip("\n")[27:])
     return macs
 
 unique=0
@@ -64,7 +64,7 @@ logging.basicConfig(filename='unqiuedevs.log', format='%(asctime)s %(message)s',
 logger=logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
-channel = thingspeak.Channel(id = 1618535, api_key = 'B0BJI8HGQ4ZXY8DQ' )
+channel = thingspeak.Channel(id = 1653570, api_key = 'AJ1AH5HRCRTN65SK' )
 
 while True:
     time.sleep(1)
