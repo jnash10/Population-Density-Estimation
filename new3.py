@@ -67,7 +67,7 @@ logger.setLevel(logging.DEBUG)
 channel = thingspeak.Channel(id = 1653570, api_key = 'AJ1AH5HRCRTN65SK' )
 
 while True:
-    time.sleep(1)
+    time.sleep(30)
     print("queue length",len(q))
     curtime = time.time()
     added = add_new(curtime)
@@ -76,5 +76,9 @@ while True:
     unique = unique + added - removed
     print("unique: ",unique,"added: ",added, "removed: ", removed)
     logger.info("unique devices: "+str(unique))
-    channel.update({'field1': unique, 'field2':footprint})
+    try:
+        channel.update({'field1': unique, 'field2':footprint})
+    except:
+        time.sleep(15)
+        
 

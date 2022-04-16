@@ -1,1428 +1,174 @@
-2022-04-15 17:08:37,482 unique devices: 2
-2022-04-15 17:08:37,504 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:08:39,035 https://api.thingspeak.com:443 "POST /update.json?field1=2&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:08:40,056 unique devices: 3
-2022-04-15 17:08:40,068 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:08:46,823 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:08:47,843 unique devices: 3
-2022-04-15 17:08:47,856 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:08:50,889 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:08:51,908 unique devices: 3
-2022-04-15 17:08:51,921 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:08:54,093 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:08:55,114 unique devices: 3
-2022-04-15 17:08:55,126 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:08:56,529 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:08:57,551 unique devices: 3
-2022-04-15 17:08:57,564 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:08:59,187 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:00,208 unique devices: 3
-2022-04-15 17:09:00,221 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:01,618 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:02,638 unique devices: 3
-2022-04-15 17:09:02,650 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:04,205 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:05,225 unique devices: 3
-2022-04-15 17:09:05,237 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:06,571 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:07,590 unique devices: 4
-2022-04-15 17:09:07,603 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:10,979 https://api.thingspeak.com:443 "POST /update.json?field1=4&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:11,999 unique devices: 4
-2022-04-15 17:09:12,011 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:17,330 https://api.thingspeak.com:443 "POST /update.json?field1=4&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:09:18,351 unique devices: 4
-2022-04-15 17:09:18,363 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:20,655 https://api.thingspeak.com:443 "POST /update.json?field1=4&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:21,675 unique devices: 5
-2022-04-15 17:09:21,688 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:23,205 https://api.thingspeak.com:443 "POST /update.json?field1=5&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:24,225 unique devices: 6
-2022-04-15 17:09:24,238 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:26,473 https://api.thingspeak.com:443 "POST /update.json?field1=6&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:27,492 unique devices: 6
-2022-04-15 17:09:27,504 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:29,030 https://api.thingspeak.com:443 "POST /update.json?field1=6&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:30,050 unique devices: 8
-2022-04-15 17:09:30,062 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:31,636 https://api.thingspeak.com:443 "POST /update.json?field1=8&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:32,655 unique devices: 8
-2022-04-15 17:09:32,668 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:33,899 https://api.thingspeak.com:443 "POST /update.json?field1=8&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:09:34,919 unique devices: 8
-2022-04-15 17:09:34,931 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:36,398 https://api.thingspeak.com:443 "POST /update.json?field1=8&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:37,418 unique devices: 9
-2022-04-15 17:09:37,430 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:39,694 https://api.thingspeak.com:443 "POST /update.json?field1=9&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:40,714 unique devices: 11
-2022-04-15 17:09:40,726 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:42,266 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:43,286 unique devices: 11
-2022-04-15 17:09:43,298 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:44,575 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:45,595 unique devices: 11
-2022-04-15 17:09:45,608 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:47,113 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:48,133 unique devices: 11
-2022-04-15 17:09:48,145 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:50,430 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:09:51,450 unique devices: 11
-2022-04-15 17:09:51,462 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:53,430 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:54,451 unique devices: 11
-2022-04-15 17:09:54,464 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:09:56,762 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:09:57,782 unique devices: 11
-2022-04-15 17:09:57,795 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:02,160 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:03,181 unique devices: 11
-2022-04-15 17:10:03,193 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:05,387 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:06,408 unique devices: 11
-2022-04-15 17:10:06,420 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:08,075 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:10:09,096 unique devices: 11
-2022-04-15 17:10:09,109 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:12,634 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:13,654 unique devices: 12
-2022-04-15 17:10:13,667 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:15,756 https://api.thingspeak.com:443 "POST /update.json?field1=12&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:16,775 unique devices: 12
-2022-04-15 17:10:16,788 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:18,187 https://api.thingspeak.com:443 "POST /update.json?field1=12&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:19,207 unique devices: 12
-2022-04-15 17:10:19,226 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:20,960 https://api.thingspeak.com:443 "POST /update.json?field1=12&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:21,980 unique devices: 12
-2022-04-15 17:10:21,993 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:25,477 https://api.thingspeak.com:443 "POST /update.json?field1=12&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:10:26,499 unique devices: 13
-2022-04-15 17:10:26,513 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:28,658 https://api.thingspeak.com:443 "POST /update.json?field1=13&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:29,678 unique devices: 13
-2022-04-15 17:10:29,690 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:31,226 https://api.thingspeak.com:443 "POST /update.json?field1=13&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:32,245 unique devices: 13
-2022-04-15 17:10:32,257 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:34,226 https://api.thingspeak.com:443 "POST /update.json?field1=13&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:35,247 unique devices: 14
-2022-04-15 17:10:35,260 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:41,661 https://api.thingspeak.com:443 "POST /update.json?field1=14&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:10:42,681 unique devices: 14
-2022-04-15 17:10:42,694 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:47,113 https://api.thingspeak.com:443 "POST /update.json?field1=14&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:48,134 unique devices: 14
-2022-04-15 17:10:48,146 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:49,474 https://api.thingspeak.com:443 "POST /update.json?field1=14&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:50,494 unique devices: 15
-2022-04-15 17:10:50,506 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:10:52,684 https://api.thingspeak.com:443 "POST /update.json?field1=15&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:10:53,704 unique devices: 15
-2022-04-15 17:10:53,717 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:01,273 https://api.thingspeak.com:443 "POST /update.json?field1=15&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:11:02,294 unique devices: 17
-2022-04-15 17:11:02,307 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:03,606 https://api.thingspeak.com:443 "POST /update.json?field1=17&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:04,626 unique devices: 17
-2022-04-15 17:11:04,638 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:06,731 https://api.thingspeak.com:443 "POST /update.json?field1=17&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:07,751 unique devices: 18
-2022-04-15 17:11:07,764 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:09,303 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:10,323 unique devices: 18
-2022-04-15 17:11:10,335 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:11,753 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:12,773 unique devices: 18
-2022-04-15 17:11:12,786 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:14,961 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:15,981 unique devices: 19
-2022-04-15 17:11:15,994 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:18,234 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:11:19,254 unique devices: 19
-2022-04-15 17:11:19,267 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:21,036 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:22,056 unique devices: 19
-2022-04-15 17:11:22,069 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:24,258 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:25,278 unique devices: 19
-2022-04-15 17:11:25,290 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:26,737 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:27,757 unique devices: 19
-2022-04-15 17:11:27,770 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:29,200 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:30,220 unique devices: 19
-2022-04-15 17:11:30,233 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:32,314 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:33,334 unique devices: 19
-2022-04-15 17:11:33,347 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:35,544 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:11:36,565 unique devices: 19
-2022-04-15 17:11:36,578 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:37,904 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:38,925 unique devices: 19
-2022-04-15 17:11:38,938 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:41,054 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:42,073 unique devices: 19
-2022-04-15 17:11:42,086 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:47,452 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:48,472 unique devices: 20
-2022-04-15 17:11:48,484 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:50,638 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:11:51,658 unique devices: 20
-2022-04-15 17:11:51,670 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:53,298 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:54,319 unique devices: 20
-2022-04-15 17:11:54,331 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:11:55,626 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:11:56,646 unique devices: 20
-2022-04-15 17:11:56,659 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:14,002 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:12:15,022 unique devices: 22
-2022-04-15 17:12:15,035 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:16,401 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:17,421 unique devices: 22
-2022-04-15 17:12:17,434 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:19,753 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:20,774 unique devices: 22
-2022-04-15 17:12:20,786 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:22,513 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:23,533 unique devices: 22
-2022-04-15 17:12:23,546 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:29,215 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:12:30,235 unique devices: 23
-2022-04-15 17:12:30,248 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:32,392 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:33,412 unique devices: 24
-2022-04-15 17:12:33,425 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:35,552 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:36,572 unique devices: 24
-2022-04-15 17:12:36,585 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:37,916 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:38,936 unique devices: 24
-2022-04-15 17:12:38,949 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:44,551 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:45,571 unique devices: 24
-2022-04-15 17:12:45,584 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:47,463 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:12:48,483 unique devices: 24
-2022-04-15 17:12:48,496 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:49,920 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:50,933 unique devices: 24
-2022-04-15 17:12:50,946 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:12:56,377 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:12:57,397 unique devices: 27
-2022-04-15 17:12:57,410 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:02,827 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:13:03,848 unique devices: 27
-2022-04-15 17:13:03,861 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:05,914 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:06,933 unique devices: 27
-2022-04-15 17:13:06,946 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:08,808 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:09,828 unique devices: 27
-2022-04-15 17:13:09,841 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:11,314 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:12,334 unique devices: 27
-2022-04-15 17:13:12,347 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:14,254 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:15,274 unique devices: 27
-2022-04-15 17:13:15,287 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:17,515 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:18,535 unique devices: 27
-2022-04-15 17:13:18,548 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:20,142 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:13:21,162 unique devices: 27
-2022-04-15 17:13:21,175 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:28,083 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:29,103 unique devices: 27
-2022-04-15 17:13:29,115 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:35,921 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:13:36,941 unique devices: 28
-2022-04-15 17:13:36,955 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:38,289 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:39,309 unique devices: 28
-2022-04-15 17:13:39,322 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:41,462 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:42,482 unique devices: 28
-2022-04-15 17:13:42,494 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:43,822 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:44,842 unique devices: 28
-2022-04-15 17:13:44,854 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:46,956 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:47,976 unique devices: 29
-2022-04-15 17:13:47,989 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:52,561 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:13:53,997 unique devices: 29
-2022-04-15 17:13:54,010 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:55,439 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:56,459 unique devices: 29
-2022-04-15 17:13:56,472 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:13:57,686 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:13:58,706 unique devices: 29
-2022-04-15 17:13:58,719 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:00,098 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:01,117 unique devices: 29
-2022-04-15 17:14:01,130 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:02,560 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:03,580 unique devices: 29
-2022-04-15 17:14:03,593 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:05,456 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:06,476 unique devices: 29
-2022-04-15 17:14:06,489 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:08,599 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:14:09,620 unique devices: 30
-2022-04-15 17:14:09,633 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:11,555 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:12,575 unique devices: 30
-2022-04-15 17:14:12,588 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:14,643 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:15,664 unique devices: 30
-2022-04-15 17:14:15,676 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:16,991 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:18,012 unique devices: 30
-2022-04-15 17:14:18,025 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:19,616 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:20,636 unique devices: 30
-2022-04-15 17:14:20,649 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:24,644 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:14:25,664 unique devices: 30
-2022-04-15 17:14:25,677 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:27,048 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:28,068 unique devices: 30
-2022-04-15 17:14:28,081 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:30,071 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:31,091 unique devices: 30
-2022-04-15 17:14:31,104 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:32,483 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:33,504 unique devices: 30
-2022-04-15 17:14:33,517 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:34,837 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:35,857 unique devices: 30
-2022-04-15 17:14:35,869 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:41,383 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:14:42,403 unique devices: 30
-2022-04-15 17:14:42,416 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:43,751 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:44,771 unique devices: 30
-2022-04-15 17:14:44,783 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:46,176 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:47,196 unique devices: 30
-2022-04-15 17:14:47,209 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:52,439 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:53,460 unique devices: 30
-2022-04-15 17:14:53,472 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:54,887 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:14:55,907 unique devices: 30
-2022-04-15 17:14:55,919 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:57,239 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:14:58,259 unique devices: 30
-2022-04-15 17:14:58,272 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:14:59,714 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:00,734 unique devices: 30
-2022-04-15 17:15:00,747 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:05,846 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:06,867 unique devices: 30
-2022-04-15 17:15:06,880 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:08,952 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:09,972 unique devices: 30
-2022-04-15 17:15:09,984 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:11,312 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:12,332 unique devices: 30
-2022-04-15 17:15:12,345 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:14,479 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:15:15,500 unique devices: 30
-2022-04-15 17:15:15,513 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:16,988 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:18,008 unique devices: 30
-2022-04-15 17:15:18,021 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:22,889 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:23,909 unique devices: 30
-2022-04-15 17:15:23,922 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:25,239 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:26,259 unique devices: 30
-2022-04-15 17:15:26,271 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:28,363 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:29,383 unique devices: 30
-2022-04-15 17:15:29,396 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:30,633 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:15:31,654 unique devices: 30
-2022-04-15 17:15:31,666 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:33,704 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:34,724 unique devices: 30
-2022-04-15 17:15:34,737 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:36,080 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:37,101 unique devices: 30
-2022-04-15 17:15:37,113 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:39,144 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:40,164 unique devices: 30
-2022-04-15 17:15:40,177 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:44,409 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:45,429 unique devices: 30
-2022-04-15 17:15:45,442 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:46,843 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:15:47,868 unique devices: 30
-2022-04-15 17:15:47,880 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:49,929 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:50,949 unique devices: 30
-2022-04-15 17:15:50,961 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:52,986 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:54,006 unique devices: 30
-2022-04-15 17:15:54,018 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:15:57,066 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:15:58,086 unique devices: 30
-2022-04-15 17:15:58,099 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:00,190 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:01,210 unique devices: 30
-2022-04-15 17:16:01,222 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:02,771 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:16:03,792 unique devices: 30
-2022-04-15 17:16:03,804 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:05,122 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:06,142 unique devices: 30
-2022-04-15 17:16:06,155 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:07,612 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:08,631 unique devices: 29
-2022-04-15 17:16:08,643 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:10,512 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:11,532 unique devices: 29
-2022-04-15 17:16:11,544 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:13,633 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:14,653 unique devices: 30
-2022-04-15 17:16:14,665 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:15,900 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:16,921 unique devices: 30
-2022-04-15 17:16:16,933 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:18,999 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:16:20,019 unique devices: 30
-2022-04-15 17:16:20,031 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:21,533 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:22,554 unique devices: 29
-2022-04-15 17:16:22,566 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:23,982 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:25,002 unique devices: 29
-2022-04-15 17:16:25,015 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:26,948 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:27,968 unique devices: 29
-2022-04-15 17:16:27,980 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:30,013 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:31,034 unique devices: 29
-2022-04-15 17:16:31,046 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:34,139 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:16:35,160 unique devices: 29
-2022-04-15 17:16:35,172 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:36,892 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:37,913 unique devices: 29
-2022-04-15 17:16:37,925 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:39,994 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:41,014 unique devices: 27
-2022-04-15 17:16:41,027 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:42,429 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:43,449 unique devices: 27
-2022-04-15 17:16:43,462 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:44,794 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:45,814 unique devices: 27
-2022-04-15 17:16:45,826 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:47,959 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:48,979 unique devices: 28
-2022-04-15 17:16:48,991 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:50,333 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:16:51,352 unique devices: 28
-2022-04-15 17:16:51,365 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:53,863 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:54,882 unique devices: 28
-2022-04-15 17:16:54,894 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:56,204 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:57,224 unique devices: 28
-2022-04-15 17:16:57,236 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:16:58,652 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:16:59,672 unique devices: 28
-2022-04-15 17:16:59,684 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:01,741 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:02,764 unique devices: 28
-2022-04-15 17:17:02,776 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:04,843 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:05,863 unique devices: 27
-2022-04-15 17:17:05,874 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:07,962 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:17:08,982 unique devices: 27
-2022-04-15 17:17:08,995 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:10,219 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:11,238 unique devices: 27
-2022-04-15 17:17:11,250 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:12,734 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:13,754 unique devices: 26
-2022-04-15 17:17:13,767 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:15,766 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:16,786 unique devices: 26
-2022-04-15 17:17:16,798 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:18,839 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:19,860 unique devices: 26
-2022-04-15 17:17:19,872 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:21,369 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:22,388 unique devices: 26
-2022-04-15 17:17:22,400 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:23,903 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:17:24,923 unique devices: 26
-2022-04-15 17:17:24,936 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:26,246 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:27,266 unique devices: 25
-2022-04-15 17:17:27,278 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:30,509 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:31,529 unique devices: 25
-2022-04-15 17:17:31,542 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:33,529 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:34,550 unique devices: 25
-2022-04-15 17:17:34,562 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:36,688 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:37,708 unique devices: 24
-2022-04-15 17:17:37,720 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:39,615 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:17:40,635 unique devices: 24
-2022-04-15 17:17:40,647 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:42,673 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:43,693 unique devices: 24
-2022-04-15 17:17:43,705 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:50,218 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:51,238 unique devices: 24
-2022-04-15 17:17:51,250 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:52,678 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:53,698 unique devices: 24
-2022-04-15 17:17:53,711 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:55,623 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:17:56,644 unique devices: 24
-2022-04-15 17:17:56,656 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:17:58,026 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:17:59,045 unique devices: 24
-2022-04-15 17:17:59,057 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:00,415 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:01,435 unique devices: 24
-2022-04-15 17:18:01,448 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:02,976 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:03,996 unique devices: 22
-2022-04-15 17:18:04,008 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:05,469 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:06,489 unique devices: 22
-2022-04-15 17:18:06,501 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:08,683 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:09,703 unique devices: 21
-2022-04-15 17:18:09,716 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:11,166 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:18:12,186 unique devices: 21
-2022-04-15 17:18:12,198 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:13,447 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:14,467 unique devices: 21
-2022-04-15 17:18:14,479 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:15,868 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:16,887 unique devices: 20
-2022-04-15 17:18:16,900 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:18,338 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:19,358 unique devices: 20
-2022-04-15 17:18:19,370 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:26,231 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:27,252 unique devices: 20
-2022-04-15 17:18:27,264 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:29,380 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:18:30,400 unique devices: 20
-2022-04-15 17:18:30,413 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:33,611 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:34,632 unique devices: 21
-2022-04-15 17:18:34,644 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:35,869 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:36,889 unique devices: 21
-2022-04-15 17:18:36,902 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:38,509 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:39,529 unique devices: 21
-2022-04-15 17:18:39,542 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:41,440 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:42,459 unique devices: 21
-2022-04-15 17:18:42,472 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:43,949 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:44,970 unique devices: 21
-2022-04-15 17:18:44,982 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:47,137 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:18:48,157 unique devices: 22
-2022-04-15 17:18:48,169 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:49,623 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:50,643 unique devices: 21
-2022-04-15 17:18:50,655 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:52,714 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:53,734 unique devices: 21
-2022-04-15 17:18:53,746 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:55,152 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:56,171 unique devices: 21
-2022-04-15 17:18:56,183 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:18:58,017 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:18:59,037 unique devices: 21
-2022-04-15 17:18:59,050 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:05,214 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:19:06,235 unique devices: 21
-2022-04-15 17:19:06,247 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:08,407 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:09,427 unique devices: 22
-2022-04-15 17:19:09,440 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:10,980 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:11,999 unique devices: 22
-2022-04-15 17:19:12,022 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:13,322 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:14,342 unique devices: 22
-2022-04-15 17:19:14,354 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:16,454 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:17,474 unique devices: 21
-2022-04-15 17:19:17,501 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:19,490 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:19:20,510 unique devices: 21
-2022-04-15 17:19:20,522 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:29,636 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:30,656 unique devices: 20
-2022-04-15 17:19:30,668 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:31,973 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:32,993 unique devices: 20
-2022-04-15 17:19:33,006 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:34,502 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:19:35,522 unique devices: 19
-2022-04-15 17:19:35,534 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:36,751 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:37,770 unique devices: 19
-2022-04-15 17:19:37,782 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:39,239 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:40,259 unique devices: 19
-2022-04-15 17:19:40,272 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:41,508 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:42,528 unique devices: 19
-2022-04-15 17:19:42,541 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:45,790 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:46,810 unique devices: 19
-2022-04-15 17:19:46,822 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:48,717 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:49,737 unique devices: 19
-2022-04-15 17:19:49,749 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:51,074 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:19:52,094 unique devices: 19
-2022-04-15 17:19:52,105 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:53,558 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:54,576 unique devices: 19
-2022-04-15 17:19:54,587 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:19:56,465 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:19:57,484 unique devices: 18
-2022-04-15 17:19:57,495 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:01,549 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:02,567 unique devices: 18
-2022-04-15 17:20:02,579 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:08,034 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:20:09,053 unique devices: 17
-2022-04-15 17:20:09,064 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:10,441 https://api.thingspeak.com:443 "POST /update.json?field1=17&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:11,459 unique devices: 17
-2022-04-15 17:20:11,470 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:12,986 https://api.thingspeak.com:443 "POST /update.json?field1=17&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:14,004 unique devices: 17
-2022-04-15 17:20:14,015 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:15,879 https://api.thingspeak.com:443 "POST /update.json?field1=17&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:16,897 unique devices: 18
-2022-04-15 17:20:16,908 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:20,155 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:21,173 unique devices: 18
-2022-04-15 17:20:21,185 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:23,622 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:20:24,641 unique devices: 18
-2022-04-15 17:20:24,653 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:28,910 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:29,928 unique devices: 18
-2022-04-15 17:20:29,940 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:31,194 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:32,212 unique devices: 18
-2022-04-15 17:20:32,224 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:33,640 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:34,658 unique devices: 18
-2022-04-15 17:20:34,669 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:36,289 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:37,307 unique devices: 17
-2022-04-15 17:20:37,318 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:38,820 https://api.thingspeak.com:443 "POST /update.json?field1=17&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:20:39,838 unique devices: 18
-2022-04-15 17:20:39,849 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:41,405 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:42,423 unique devices: 19
-2022-04-15 17:20:42,434 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:43,886 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:44,904 unique devices: 19
-2022-04-15 17:20:44,916 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:46,442 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:47,460 unique devices: 20
-2022-04-15 17:20:47,471 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:48,736 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:49,754 unique devices: 20
-2022-04-15 17:20:49,765 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:50,930 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:51,948 unique devices: 20
-2022-04-15 17:20:51,960 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:53,339 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:54,356 unique devices: 20
-2022-04-15 17:20:54,368 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:56,164 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:20:57,183 unique devices: 20
-2022-04-15 17:20:57,194 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:20:58,589 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:20:59,607 unique devices: 20
-2022-04-15 17:20:59,618 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:01,793 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:02,811 unique devices: 20
-2022-04-15 17:21:02,823 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:05,912 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:06,930 unique devices: 20
-2022-04-15 17:21:06,941 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:08,964 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:09,982 unique devices: 20
-2022-04-15 17:21:09,993 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:11,886 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:21:12,904 unique devices: 20
-2022-04-15 17:21:12,916 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:14,225 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:15,243 unique devices: 21
-2022-04-15 17:21:15,254 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:18,192 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:19,210 unique devices: 21
-2022-04-15 17:21:19,221 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:20,963 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:21,981 unique devices: 21
-2022-04-15 17:21:21,993 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:23,417 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:24,435 unique devices: 21
-2022-04-15 17:21:24,447 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:27,766 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:21:28,784 unique devices: 20
-2022-04-15 17:21:28,795 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:30,935 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:31,954 unique devices: 20
-2022-04-15 17:21:31,965 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:35,008 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:36,026 unique devices: 20
-2022-04-15 17:21:36,037 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:38,068 https://api.thingspeak.com:443 "POST /update.json?field1=20&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:39,085 unique devices: 21
-2022-04-15 17:21:39,096 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:40,439 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:41,457 unique devices: 21
-2022-04-15 17:21:41,471 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:43,681 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:21:44,700 unique devices: 21
-2022-04-15 17:21:44,711 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:46,386 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:47,404 unique devices: 21
-2022-04-15 17:21:47,415 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:48,691 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:49,709 unique devices: 21
-2022-04-15 17:21:49,721 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:52,035 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:53,053 unique devices: 21
-2022-04-15 17:21:53,079 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:54,540 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:55,559 unique devices: 21
-2022-04-15 17:21:55,580 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:56,951 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:21:57,970 unique devices: 21
-2022-04-15 17:21:57,994 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:21:59,345 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:22:00,364 unique devices: 21
-2022-04-15 17:22:00,375 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:01,762 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:02,780 unique devices: 21
-2022-04-15 17:22:02,791 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:04,152 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:05,170 unique devices: 21
-2022-04-15 17:22:05,182 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:06,560 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:07,578 unique devices: 21
-2022-04-15 17:22:07,589 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:09,061 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:10,079 unique devices: 21
-2022-04-15 17:22:10,090 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:11,463 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:12,481 unique devices: 21
-2022-04-15 17:22:12,493 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:13,869 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:14,887 unique devices: 21
-2022-04-15 17:22:14,898 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:16,269 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:22:17,287 unique devices: 21
-2022-04-15 17:22:17,299 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:18,675 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:19,693 unique devices: 21
-2022-04-15 17:22:19,704 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:21,150 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:22,168 unique devices: 21
-2022-04-15 17:22:22,179 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:23,688 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:24,707 unique devices: 21
-2022-04-15 17:22:24,718 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:26,087 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:27,104 unique devices: 21
-2022-04-15 17:22:27,116 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:28,802 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:29,820 unique devices: 21
-2022-04-15 17:22:29,832 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:31,205 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:32,223 unique devices: 21
-2022-04-15 17:22:32,234 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:33,605 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:22:34,617 unique devices: 21
-2022-04-15 17:22:34,628 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:36,010 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:37,027 unique devices: 21
-2022-04-15 17:22:37,033 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:38,412 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:39,430 unique devices: 21
-2022-04-15 17:22:39,442 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:40,814 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:41,832 unique devices: 21
-2022-04-15 17:22:41,843 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:43,215 https://api.thingspeak.com:443 "POST /update.json?field1=21&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:44,233 unique devices: 22
-2022-04-15 17:22:44,244 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:45,736 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:46,755 unique devices: 22
-2022-04-15 17:22:46,766 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:49,797 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:22:50,816 unique devices: 23
-2022-04-15 17:22:50,827 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:52,378 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:53,396 unique devices: 23
-2022-04-15 17:22:53,407 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:54,707 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:55,725 unique devices: 23
-2022-04-15 17:22:55,736 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:57,108 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:22:58,126 unique devices: 23
-2022-04-15 17:22:58,137 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:22:59,723 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:00,741 unique devices: 23
-2022-04-15 17:23:00,752 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:03,061 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:04,079 unique devices: 23
-2022-04-15 17:23:04,090 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:05,569 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:23:06,587 unique devices: 23
-2022-04-15 17:23:06,599 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:07,972 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:08,990 unique devices: 23
-2022-04-15 17:23:09,001 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:10,479 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:11,498 unique devices: 23
-2022-04-15 17:23:11,509 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:15,805 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:16,824 unique devices: 22
-2022-04-15 17:23:16,835 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:19,889 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:20,907 unique devices: 23
-2022-04-15 17:23:20,918 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:22,739 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:23:23,758 unique devices: 24
-2022-04-15 17:23:23,769 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:25,223 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:26,241 unique devices: 24
-2022-04-15 17:23:26,253 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:27,609 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:28,627 unique devices: 24
-2022-04-15 17:23:28,638 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:30,010 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:31,028 unique devices: 24
-2022-04-15 17:23:31,039 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:32,413 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:33,432 unique devices: 24
-2022-04-15 17:23:33,443 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:34,714 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:35,732 unique devices: 24
-2022-04-15 17:23:35,744 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:37,216 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:38,234 unique devices: 24
-2022-04-15 17:23:38,245 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:39,725 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:23:40,744 unique devices: 24
-2022-04-15 17:23:40,755 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:42,126 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:43,144 unique devices: 24
-2022-04-15 17:23:43,156 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:44,530 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:45,548 unique devices: 24
-2022-04-15 17:23:45,559 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:47,050 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:48,068 unique devices: 24
-2022-04-15 17:23:48,079 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:49,644 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:50,663 unique devices: 24
-2022-04-15 17:23:50,674 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:52,158 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:53,176 unique devices: 24
-2022-04-15 17:23:53,187 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:54,831 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:23:55,850 unique devices: 24
-2022-04-15 17:23:55,861 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:57,272 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:23:58,289 unique devices: 24
-2022-04-15 17:23:58,301 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:23:59,783 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:00,802 unique devices: 25
-2022-04-15 17:24:00,813 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:02,363 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:03,381 unique devices: 25
-2022-04-15 17:24:03,393 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:04,794 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:05,812 unique devices: 25
-2022-04-15 17:24:05,824 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:07,374 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:08,392 unique devices: 25
-2022-04-15 17:24:08,403 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:09,805 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:24:10,916 unique devices: 25
-2022-04-15 17:24:10,927 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:14,085 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:15,103 unique devices: 25
-2022-04-15 17:24:15,114 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:16,527 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:17,545 unique devices: 25
-2022-04-15 17:24:17,556 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:18,893 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:19,911 unique devices: 26
-2022-04-15 17:24:19,923 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:22,008 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:23,026 unique devices: 26
-2022-04-15 17:24:23,037 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:24,433 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:25,451 unique devices: 26
-2022-04-15 17:24:25,463 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:26,940 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:24:27,959 unique devices: 27
-2022-04-15 17:24:27,970 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:29,233 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:30,252 unique devices: 28
-2022-04-15 17:24:30,263 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:33,308 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:34,326 unique devices: 28
-2022-04-15 17:24:34,338 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:35,814 https://api.thingspeak.com:443 "POST /update.json?field1=28&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:36,832 unique devices: 29
-2022-04-15 17:24:36,843 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:39,681 https://api.thingspeak.com:443 "POST /update.json?field1=29&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:40,700 unique devices: 30
-2022-04-15 17:24:40,711 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:42,260 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:24:43,313 unique devices: 30
-2022-04-15 17:24:43,325 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:44,801 https://api.thingspeak.com:443 "POST /update.json?field1=30&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:45,820 unique devices: 31
-2022-04-15 17:24:45,831 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:47,204 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:48,223 unique devices: 31
-2022-04-15 17:24:48,237 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:49,706 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:50,726 unique devices: 31
-2022-04-15 17:24:50,739 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:52,121 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:53,141 unique devices: 31
-2022-04-15 17:24:53,153 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:54,513 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:24:55,533 unique devices: 31
-2022-04-15 17:24:55,546 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:24:57,235 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:24:58,267 unique devices: 32
-2022-04-15 17:24:58,279 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:00,371 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:01,390 unique devices: 32
-2022-04-15 17:25:01,403 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:03,081 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:04,101 unique devices: 32
-2022-04-15 17:25:04,113 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:06,213 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:07,234 unique devices: 32
-2022-04-15 17:25:07,246 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:09,309 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:10,329 unique devices: 33
-2022-04-15 17:25:10,341 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:16,655 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:25:17,675 unique devices: 33
-2022-04-15 17:25:17,688 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:19,268 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:20,288 unique devices: 33
-2022-04-15 17:25:20,300 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:23,486 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:24,507 unique devices: 33
-2022-04-15 17:25:24,520 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:25,999 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:27,019 unique devices: 33
-2022-04-15 17:25:27,031 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:29,067 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:30,087 unique devices: 34
-2022-04-15 17:25:30,100 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:31,953 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:25:32,972 unique devices: 34
-2022-04-15 17:25:32,985 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:34,401 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:35,415 unique devices: 33
-2022-04-15 17:25:35,428 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:36,992 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:38,012 unique devices: 33
-2022-04-15 17:25:38,024 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:39,146 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:40,166 unique devices: 33
-2022-04-15 17:25:40,178 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:41,583 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:42,603 unique devices: 33
-2022-04-15 17:25:42,616 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:44,124 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:45,143 unique devices: 33
-2022-04-15 17:25:45,156 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:46,711 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:47,731 unique devices: 33
-2022-04-15 17:25:47,743 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:49,107 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:25:50,127 unique devices: 32
-2022-04-15 17:25:50,140 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:51,561 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:52,581 unique devices: 32
-2022-04-15 17:25:52,593 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:53,977 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:54,997 unique devices: 32
-2022-04-15 17:25:55,009 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:56,722 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:25:57,742 unique devices: 32
-2022-04-15 17:25:57,755 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:25:59,333 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:00,354 unique devices: 32
-2022-04-15 17:26:00,367 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:01,607 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:02,626 unique devices: 32
-2022-04-15 17:26:02,632 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:03,707 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:04,727 unique devices: 32
-2022-04-15 17:26:04,740 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:06,196 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:26:07,217 unique devices: 32
-2022-04-15 17:26:07,229 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:08,407 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:09,427 unique devices: 31
-2022-04-15 17:26:09,440 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:10,828 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:11,848 unique devices: 31
-2022-04-15 17:26:11,860 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:13,067 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:14,087 unique devices: 31
-2022-04-15 17:26:14,099 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:15,426 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:16,446 unique devices: 32
-2022-04-15 17:26:16,459 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:17,746 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:18,767 unique devices: 31
-2022-04-15 17:26:18,779 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:20,175 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:21,194 unique devices: 31
-2022-04-15 17:26:21,207 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:22,810 https://api.thingspeak.com:443 "POST /update.json?field1=31&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:26:23,831 unique devices: 32
-2022-04-15 17:26:23,844 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:25,276 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:26,296 unique devices: 32
-2022-04-15 17:26:26,309 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:27,459 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:28,479 unique devices: 32
-2022-04-15 17:26:28,491 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:30,092 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:31,112 unique devices: 32
-2022-04-15 17:26:31,124 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:32,443 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:33,463 unique devices: 32
-2022-04-15 17:26:33,475 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:34,848 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:35,868 unique devices: 32
-2022-04-15 17:26:35,881 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:36,985 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:38,006 unique devices: 32
-2022-04-15 17:26:38,018 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:39,228 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:26:40,249 unique devices: 32
-2022-04-15 17:26:40,261 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:42,470 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:43,491 unique devices: 32
-2022-04-15 17:26:43,502 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:44,882 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:45,902 unique devices: 32
-2022-04-15 17:26:45,915 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:47,438 https://api.thingspeak.com:443 "POST /update.json?field1=32&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:48,459 unique devices: 33
-2022-04-15 17:26:48,471 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:49,597 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:50,617 unique devices: 33
-2022-04-15 17:26:50,630 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:51,767 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:52,787 unique devices: 33
-2022-04-15 17:26:52,799 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:54,066 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:26:55,085 unique devices: 34
-2022-04-15 17:26:55,097 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:56,781 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:26:57,801 unique devices: 34
-2022-04-15 17:26:57,813 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:26:59,497 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:00,517 unique devices: 34
-2022-04-15 17:27:00,530 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:02,150 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:03,170 unique devices: 33
-2022-04-15 17:27:03,182 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:05,972 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:06,991 unique devices: 34
-2022-04-15 17:27:07,004 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:08,316 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:09,336 unique devices: 34
-2022-04-15 17:27:09,349 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:10,836 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:11,856 unique devices: 34
-2022-04-15 17:27:11,868 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:13,709 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:27:14,730 unique devices: 34
-2022-04-15 17:27:14,742 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:16,222 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:17,242 unique devices: 33
-2022-04-15 17:27:17,254 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:18,602 https://api.thingspeak.com:443 "POST /update.json?field1=33&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:19,622 unique devices: 34
-2022-04-15 17:27:19,635 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:22,939 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:23,959 unique devices: 34
-2022-04-15 17:27:23,972 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:25,147 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:26,168 unique devices: 34
-2022-04-15 17:27:26,179 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:27,489 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:28,509 unique devices: 34
-2022-04-15 17:27:28,521 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:29,681 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:27:30,701 unique devices: 34
-2022-04-15 17:27:30,713 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:32,189 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:33,209 unique devices: 35
-2022-04-15 17:27:33,221 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:34,479 https://api.thingspeak.com:443 "POST /update.json?field1=35&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:35,500 unique devices: 35
-2022-04-15 17:27:35,512 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:36,680 https://api.thingspeak.com:443 "POST /update.json?field1=35&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:37,700 unique devices: 35
-2022-04-15 17:27:37,712 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:39,190 https://api.thingspeak.com:443 "POST /update.json?field1=35&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:40,210 unique devices: 34
-2022-04-15 17:27:40,222 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:41,846 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:42,866 unique devices: 34
-2022-04-15 17:27:42,878 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:45,715 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:27:46,736 unique devices: 34
-2022-04-15 17:27:46,748 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:48,539 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:49,559 unique devices: 34
-2022-04-15 17:27:49,573 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:51,476 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:52,496 unique devices: 34
-2022-04-15 17:27:52,509 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:55,394 https://api.thingspeak.com:443 "POST /update.json?field1=34&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:56,414 unique devices: 35
-2022-04-15 17:27:56,426 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:27:57,674 https://api.thingspeak.com:443 "POST /update.json?field1=35&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:27:58,696 unique devices: 35
-2022-04-15 17:27:58,709 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:00,080 https://api.thingspeak.com:443 "POST /update.json?field1=35&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:01,099 unique devices: 36
-2022-04-15 17:28:01,110 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:02,495 https://api.thingspeak.com:443 "POST /update.json?field1=36&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:28:03,514 unique devices: 36
-2022-04-15 17:28:03,527 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:04,780 https://api.thingspeak.com:443 "POST /update.json?field1=36&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:05,800 unique devices: 36
-2022-04-15 17:28:05,812 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:06,973 https://api.thingspeak.com:443 "POST /update.json?field1=36&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:07,993 unique devices: 37
-2022-04-15 17:28:08,006 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:09,274 https://api.thingspeak.com:443 "POST /update.json?field1=37&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:10,294 unique devices: 37
-2022-04-15 17:28:10,305 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:11,505 https://api.thingspeak.com:443 "POST /update.json?field1=37&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:12,524 unique devices: 37
-2022-04-15 17:28:12,536 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:13,866 https://api.thingspeak.com:443 "POST /update.json?field1=37&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:14,886 unique devices: 37
-2022-04-15 17:28:14,899 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:16,267 https://api.thingspeak.com:443 "POST /update.json?field1=37&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:17,287 unique devices: 38
-2022-04-15 17:28:17,300 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:18,571 https://api.thingspeak.com:443 "POST /update.json?field1=38&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:28:19,592 unique devices: 38
-2022-04-15 17:28:19,605 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:20,954 https://api.thingspeak.com:443 "POST /update.json?field1=38&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:21,974 unique devices: 38
-2022-04-15 17:28:21,986 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:23,476 https://api.thingspeak.com:443 "POST /update.json?field1=38&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:24,496 unique devices: 39
-2022-04-15 17:28:24,509 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:25,631 https://api.thingspeak.com:443 "POST /update.json?field1=39&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:26,650 unique devices: 40
-2022-04-15 17:28:26,663 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:29,427 https://api.thingspeak.com:443 "POST /update.json?field1=40&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:30,448 unique devices: 41
-2022-04-15 17:28:30,460 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:32,174 https://api.thingspeak.com:443 "POST /update.json?field1=41&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:33,195 unique devices: 42
-2022-04-15 17:28:33,207 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:34,649 https://api.thingspeak.com:443 "POST /update.json?field1=42&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:28:35,670 unique devices: 42
-2022-04-15 17:28:35,682 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:37,055 https://api.thingspeak.com:443 "POST /update.json?field1=42&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:38,075 unique devices: 42
-2022-04-15 17:28:38,087 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:39,307 https://api.thingspeak.com:443 "POST /update.json?field1=42&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:40,326 unique devices: 42
-2022-04-15 17:28:40,339 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:41,504 https://api.thingspeak.com:443 "POST /update.json?field1=42&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:42,524 unique devices: 42
-2022-04-15 17:28:42,537 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:43,850 https://api.thingspeak.com:443 "POST /update.json?field1=42&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:44,870 unique devices: 42
-2022-04-15 17:28:44,882 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:46,144 https://api.thingspeak.com:443 "POST /update.json?field1=42&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:47,163 unique devices: 42
-2022-04-15 17:28:47,176 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:48,335 https://api.thingspeak.com:443 "POST /update.json?field1=42&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:49,355 unique devices: 42
-2022-04-15 17:28:49,367 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:50,434 https://api.thingspeak.com:443 "POST /update.json?field1=42&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:28:51,454 unique devices: 43
-2022-04-15 17:28:51,467 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:52,523 https://api.thingspeak.com:443 "POST /update.json?field1=43&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:53,544 unique devices: 43
-2022-04-15 17:28:53,556 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:54,810 https://api.thingspeak.com:443 "POST /update.json?field1=43&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:55,830 unique devices: 45
-2022-04-15 17:28:55,843 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:57,213 https://api.thingspeak.com:443 "POST /update.json?field1=45&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:28:58,233 unique devices: 45
-2022-04-15 17:28:58,246 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:28:59,548 https://api.thingspeak.com:443 "POST /update.json?field1=45&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:00,567 unique devices: 45
-2022-04-15 17:29:00,573 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:02,549 https://api.thingspeak.com:443 "POST /update.json?field1=45&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:03,570 unique devices: 46
-2022-04-15 17:29:03,583 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:05,045 https://api.thingspeak.com:443 "POST /update.json?field1=46&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:06,064 unique devices: 47
-2022-04-15 17:29:06,076 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:07,552 https://api.thingspeak.com:443 "POST /update.json?field1=47&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:29:08,571 unique devices: 47
-2022-04-15 17:29:08,582 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:09,958 https://api.thingspeak.com:443 "POST /update.json?field1=47&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:10,980 unique devices: 49
-2022-04-15 17:29:10,992 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:12,194 https://api.thingspeak.com:443 "POST /update.json?field1=49&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:13,215 unique devices: 49
-2022-04-15 17:29:13,231 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:14,342 https://api.thingspeak.com:443 "POST /update.json?field1=49&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:15,365 unique devices: 49
-2022-04-15 17:29:15,378 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:16,744 https://api.thingspeak.com:443 "POST /update.json?field1=49&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:17,766 unique devices: 49
-2022-04-15 17:29:17,779 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:19,369 https://api.thingspeak.com:443 "POST /update.json?field1=49&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:20,388 unique devices: 49
-2022-04-15 17:29:20,402 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:22,021 https://api.thingspeak.com:443 "POST /update.json?field1=49&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:23,044 unique devices: 50
-2022-04-15 17:29:23,057 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:24,411 https://api.thingspeak.com:443 "POST /update.json?field1=50&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:29:25,433 unique devices: 50
-2022-04-15 17:29:25,446 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:26,800 https://api.thingspeak.com:443 "POST /update.json?field1=50&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:27,823 unique devices: 50
-2022-04-15 17:29:27,836 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:28,992 https://api.thingspeak.com:443 "POST /update.json?field1=50&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:30,016 unique devices: 50
-2022-04-15 17:29:30,029 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:31,366 https://api.thingspeak.com:443 "POST /update.json?field1=50&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:32,386 unique devices: 50
-2022-04-15 17:29:32,400 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:33,697 https://api.thingspeak.com:443 "POST /update.json?field1=50&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:34,720 unique devices: 50
-2022-04-15 17:29:34,733 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:36,070 https://api.thingspeak.com:443 "POST /update.json?field1=50&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:37,089 unique devices: 50
-2022-04-15 17:29:37,102 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:38,392 https://api.thingspeak.com:443 "POST /update.json?field1=50&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:39,414 unique devices: 50
-2022-04-15 17:29:39,428 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:40,672 https://api.thingspeak.com:443 "POST /update.json?field1=50&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:29:41,695 unique devices: 51
-2022-04-15 17:29:41,708 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:43,066 https://api.thingspeak.com:443 "POST /update.json?field1=51&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:44,088 unique devices: 52
-2022-04-15 17:29:44,101 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:45,467 https://api.thingspeak.com:443 "POST /update.json?field1=52&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:46,491 unique devices: 51
-2022-04-15 17:29:46,504 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:47,765 https://api.thingspeak.com:443 "POST /update.json?field1=51&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:48,784 unique devices: 51
-2022-04-15 17:29:48,796 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:50,168 https://api.thingspeak.com:443 "POST /update.json?field1=51&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:51,190 unique devices: 51
-2022-04-15 17:29:51,203 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:52,572 https://api.thingspeak.com:443 "POST /update.json?field1=51&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:53,601 unique devices: 51
-2022-04-15 17:29:53,615 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:54,869 https://api.thingspeak.com:443 "POST /update.json?field1=51&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:29:55,891 unique devices: 52
-2022-04-15 17:29:55,904 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:57,272 https://api.thingspeak.com:443 "POST /update.json?field1=52&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:29:58,294 unique devices: 52
-2022-04-15 17:29:58,307 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:29:59,776 https://api.thingspeak.com:443 "POST /update.json?field1=52&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:00,796 unique devices: 52
-2022-04-15 17:30:00,809 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:02,160 https://api.thingspeak.com:443 "POST /update.json?field1=52&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:03,183 unique devices: 53
-2022-04-15 17:30:03,196 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:04,584 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:05,606 unique devices: 53
-2022-04-15 17:30:05,620 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:06,889 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:07,912 unique devices: 53
-2022-04-15 17:30:07,925 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:09,204 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:10,227 unique devices: 53
-2022-04-15 17:30:10,240 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:11,475 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:12,498 unique devices: 53
-2022-04-15 17:30:12,510 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:13,820 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:30:14,843 unique devices: 53
-2022-04-15 17:30:14,855 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:16,076 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:17,099 unique devices: 53
-2022-04-15 17:30:17,112 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:18,392 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:19,415 unique devices: 53
-2022-04-15 17:30:19,428 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:21,143 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:22,162 unique devices: 53
-2022-04-15 17:30:22,174 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:23,699 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:24,721 unique devices: 53
-2022-04-15 17:30:24,735 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:26,014 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:27,035 unique devices: 53
-2022-04-15 17:30:27,048 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:28,399 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:29,424 unique devices: 53
-2022-04-15 17:30:29,437 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:30,651 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:30:31,674 unique devices: 54
-2022-04-15 17:30:31,687 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:32,992 https://api.thingspeak.com:443 "POST /update.json?field1=54&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:34,012 unique devices: 53
-2022-04-15 17:30:34,026 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:35,467 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:36,490 unique devices: 53
-2022-04-15 17:30:36,502 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:37,914 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:38,936 unique devices: 53
-2022-04-15 17:30:38,949 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:40,306 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:41,328 unique devices: 53
-2022-04-15 17:30:41,340 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:42,721 https://api.thingspeak.com:443 "POST /update.json?field1=53&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:43,744 unique devices: 54
-2022-04-15 17:30:43,757 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:45,005 https://api.thingspeak.com:443 "POST /update.json?field1=54&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:46,025 unique devices: 54
-2022-04-15 17:30:46,037 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:47,306 https://api.thingspeak.com:443 "POST /update.json?field1=54&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:30:48,329 unique devices: 54
-2022-04-15 17:30:48,342 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:49,976 https://api.thingspeak.com:443 "POST /update.json?field1=54&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:50,998 unique devices: 56
-2022-04-15 17:30:51,012 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:53,042 https://api.thingspeak.com:443 "POST /update.json?field1=56&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:54,061 unique devices: 56
-2022-04-15 17:30:54,075 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:55,763 https://api.thingspeak.com:443 "POST /update.json?field1=56&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:56,787 unique devices: 56
-2022-04-15 17:30:56,802 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:30:58,118 https://api.thingspeak.com:443 "POST /update.json?field1=56&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:30:59,141 unique devices: 57
-2022-04-15 17:30:59,155 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:00,474 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:01,496 unique devices: 57
-2022-04-15 17:31:01,510 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:02,765 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:31:03,788 unique devices: 57
-2022-04-15 17:31:03,800 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:05,038 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:06,060 unique devices: 57
-2022-04-15 17:31:06,073 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:07,466 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:08,490 unique devices: 57
-2022-04-15 17:31:08,502 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:09,954 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:10,974 unique devices: 57
-2022-04-15 17:31:10,986 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:12,815 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:13,838 unique devices: 57
-2022-04-15 17:31:13,850 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:15,219 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:16,242 unique devices: 57
-2022-04-15 17:31:16,255 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:17,709 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:18,729 unique devices: 57
-2022-04-15 17:31:18,743 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:20,341 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:31:21,364 unique devices: 57
-2022-04-15 17:31:21,377 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:24,493 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:25,516 unique devices: 58
-2022-04-15 17:31:25,529 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:26,583 https://api.thingspeak.com:443 "POST /update.json?field1=58&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:27,603 unique devices: 58
-2022-04-15 17:31:27,615 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:28,879 https://api.thingspeak.com:443 "POST /update.json?field1=58&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:29,902 unique devices: 58
-2022-04-15 17:31:29,915 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:31,162 https://api.thingspeak.com:443 "POST /update.json?field1=58&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:32,184 unique devices: 57
-2022-04-15 17:31:32,198 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:33,473 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:34,495 unique devices: 57
-2022-04-15 17:31:34,509 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:35,719 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:31:36,742 unique devices: 57
-2022-04-15 17:31:36,755 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:38,030 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:39,050 unique devices: 57
-2022-04-15 17:31:39,064 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:40,351 https://api.thingspeak.com:443 "POST /update.json?field1=57&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:41,374 unique devices: 56
-2022-04-15 17:31:41,387 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:42,791 https://api.thingspeak.com:443 "POST /update.json?field1=56&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:43,810 unique devices: 56
-2022-04-15 17:31:43,824 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:45,378 https://api.thingspeak.com:443 "POST /update.json?field1=56&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:46,401 unique devices: 55
-2022-04-15 17:31:46,414 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:47,779 https://api.thingspeak.com:443 "POST /update.json?field1=55&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:48,800 unique devices: 55
-2022-04-15 17:31:48,813 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:50,086 https://api.thingspeak.com:443 "POST /update.json?field1=55&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:51,109 unique devices: 55
-2022-04-15 17:31:51,122 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:52,479 https://api.thingspeak.com:443 "POST /update.json?field1=55&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
-2022-04-15 17:31:53,503 unique devices: 55
-2022-04-15 17:31:53,515 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:54,882 https://api.thingspeak.com:443 "POST /update.json?field1=55&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:55,901 unique devices: 55
-2022-04-15 17:31:55,915 Starting new HTTPS connection (1): api.thingspeak.com:443
-2022-04-15 17:31:57,084 https://api.thingspeak.com:443 "POST /update.json?field1=55&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
-2022-04-15 17:31:58,107 unique devices: 55
-2022-04-15 17:31:58,120 Starting new HTTPS connection (1): api.thingspeak.com:443
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+2022-04-16 19:34:55,212 unique devices: 3
+2022-04-16 19:34:55,233 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:34:56,754 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
+2022-04-16 19:34:57,773 unique devices: 3
+2022-04-16 19:34:57,784 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:34:58,787 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:34:59,798 unique devices: 3
+2022-04-16 19:34:59,806 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:01,102 https://api.thingspeak.com:443 "POST /update.json?field1=3&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:02,119 unique devices: 5
+2022-04-16 19:35:02,130 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:03,631 https://api.thingspeak.com:443 "POST /update.json?field1=5&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:04,647 unique devices: 6
+2022-04-16 19:35:04,659 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:05,659 https://api.thingspeak.com:443 "POST /update.json?field1=6&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:06,670 unique devices: 6
+2022-04-16 19:35:06,682 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:07,675 https://api.thingspeak.com:443 "POST /update.json?field1=6&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:08,686 unique devices: 6
+2022-04-16 19:35:08,698 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:09,720 https://api.thingspeak.com:443 "POST /update.json?field1=6&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:10,738 unique devices: 6
+2022-04-16 19:35:10,743 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:11,711 https://api.thingspeak.com:443 "POST /update.json?field1=6&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:12,730 unique devices: 6
+2022-04-16 19:35:12,742 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:13,758 https://api.thingspeak.com:443 "POST /update.json?field1=6&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
+2022-04-16 19:35:14,769 unique devices: 6
+2022-04-16 19:35:14,780 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:15,798 https://api.thingspeak.com:443 "POST /update.json?field1=6&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:16,809 unique devices: 7
+2022-04-16 19:35:16,815 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:17,807 https://api.thingspeak.com:443 "POST /update.json?field1=7&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:18,817 unique devices: 8
+2022-04-16 19:35:18,823 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:19,826 https://api.thingspeak.com:443 "POST /update.json?field1=8&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:20,837 unique devices: 10
+2022-04-16 19:35:20,845 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:21,830 https://api.thingspeak.com:443 "POST /update.json?field1=10&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:22,842 unique devices: 10
+2022-04-16 19:35:22,854 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:23,875 https://api.thingspeak.com:443 "POST /update.json?field1=10&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:24,886 unique devices: 10
+2022-04-16 19:35:24,898 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:25,888 https://api.thingspeak.com:443 "POST /update.json?field1=10&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:26,898 unique devices: 11
+2022-04-16 19:35:26,904 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:27,894 https://api.thingspeak.com:443 "POST /update.json?field1=11&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:28,907 unique devices: 12
+2022-04-16 19:35:28,913 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:29,870 https://api.thingspeak.com:443 "POST /update.json?field1=12&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
+2022-04-16 19:35:30,881 unique devices: 14
+2022-04-16 19:35:30,890 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:31,848 https://api.thingspeak.com:443 "POST /update.json?field1=14&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:32,863 unique devices: 14
+2022-04-16 19:35:32,874 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:33,883 https://api.thingspeak.com:443 "POST /update.json?field1=14&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:34,893 unique devices: 15
+2022-04-16 19:35:34,901 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:35,922 https://api.thingspeak.com:443 "POST /update.json?field1=15&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:36,935 unique devices: 15
+2022-04-16 19:35:36,941 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:37,921 https://api.thingspeak.com:443 "POST /update.json?field1=15&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:38,938 unique devices: 16
+2022-04-16 19:35:38,948 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:39,938 https://api.thingspeak.com:443 "POST /update.json?field1=16&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:40,949 unique devices: 17
+2022-04-16 19:35:40,957 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:41,941 https://api.thingspeak.com:443 "POST /update.json?field1=17&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:42,952 unique devices: 18
+2022-04-16 19:35:42,964 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:43,949 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:44,959 unique devices: 18
+2022-04-16 19:35:44,967 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:46,032 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
+2022-04-16 19:35:47,044 unique devices: 18
+2022-04-16 19:35:47,055 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:48,043 https://api.thingspeak.com:443 "POST /update.json?field1=18&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:49,053 unique devices: 19
+2022-04-16 19:35:49,065 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:50,041 https://api.thingspeak.com:443 "POST /update.json?field1=19&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:51,052 unique devices: 22
+2022-04-16 19:35:51,064 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:52,091 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:53,107 unique devices: 22
+2022-04-16 19:35:53,119 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:54,112 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:55,123 unique devices: 22
+2022-04-16 19:35:55,134 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:56,136 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:57,146 unique devices: 22
+2022-04-16 19:35:57,151 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:35:58,157 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:35:59,168 unique devices: 22
+2022-04-16 19:35:59,176 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:00,214 https://api.thingspeak.com:443 "POST /update.json?field1=22&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:01,233 unique devices: 23
+2022-04-16 19:36:01,242 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:02,696 https://api.thingspeak.com:443 "POST /update.json?field1=23&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
+2022-04-16 19:36:03,715 unique devices: 24
+2022-04-16 19:36:03,728 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:04,740 https://api.thingspeak.com:443 "POST /update.json?field1=24&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:05,757 unique devices: 25
+2022-04-16 19:36:05,768 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:06,767 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:07,778 unique devices: 25
+2022-04-16 19:36:07,788 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:08,785 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:09,795 unique devices: 25
+2022-04-16 19:36:09,801 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:10,760 https://api.thingspeak.com:443 "POST /update.json?field1=25&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:11,770 unique devices: 26
+2022-04-16 19:36:11,775 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:12,759 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:13,774 unique devices: 26
+2022-04-16 19:36:13,785 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:14,784 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:15,794 unique devices: 26
+2022-04-16 19:36:15,799 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:16,774 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:17,784 unique devices: 26
+2022-04-16 19:36:17,790 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:18,752 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
+2022-04-16 19:36:19,771 unique devices: 26
+2022-04-16 19:36:19,782 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:20,784 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:21,798 unique devices: 26
+2022-04-16 19:36:21,810 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:22,819 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:23,832 unique devices: 26
+2022-04-16 19:36:23,844 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:24,846 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:25,859 unique devices: 26
+2022-04-16 19:36:25,870 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:26,876 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:27,888 unique devices: 26
+2022-04-16 19:36:27,901 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:28,902 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:29,913 unique devices: 26
+2022-04-16 19:36:29,924 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:30,922 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:31,933 unique devices: 26
+2022-04-16 19:36:31,941 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:32,996 https://api.thingspeak.com:443 "POST /update.json?field1=26&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:34,013 unique devices: 27
+2022-04-16 19:36:34,024 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:35,035 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
+2022-04-16 19:36:36,054 unique devices: 27
+2022-04-16 19:36:36,065 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:37,066 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:38,078 unique devices: 27
+2022-04-16 19:36:38,089 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:39,096 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:40,107 unique devices: 27
+2022-04-16 19:36:40,119 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:41,118 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:42,129 unique devices: 27
+2022-04-16 19:36:42,140 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:43,143 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:44,154 unique devices: 27
+2022-04-16 19:36:44,165 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:45,165 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:46,176 unique devices: 27
+2022-04-16 19:36:46,187 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:47,176 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:48,194 unique devices: 27
+2022-04-16 19:36:48,205 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:49,199 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 1
+2022-04-16 19:36:50,210 unique devices: 27
+2022-04-16 19:36:50,221 Starting new HTTPS connection (1): api.thingspeak.com:443
+2022-04-16 19:36:51,231 https://api.thingspeak.com:443 "POST /update.json?field1=27&field2=420&api_key=AJ1AH5HRCRTN65SK HTTP/1.1" 200 None
+2022-04-16 19:36:52,243 unique devices: 27
+2022-04-16 19:36:52,254 Starting new HTTPS connection (1): api.thingspeak.com:443
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
