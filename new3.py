@@ -47,16 +47,19 @@ def add_new(curtime):
 def remove_old(curtime):
     removed = 0
     while True:
-        top = q[0]
-        if curtime - top[1] > footprint:
-            count_hash[top[0]]-=1
-            q.pop(0)
-            if count_hash[top[0]]==0:
-                removed+=1
-        else:
+        try:
+            top = q[0]
+            if curtime - top[1] > footprint:
+                count_hash[top[0]]-=1
+                q.pop(0)
+                if count_hash[top[0]]==0:
+                    removed+=1
+            else:
 
-            return removed
-            break
+                return removed
+                break
+        except:
+            return 0
 
 footprint = 60*7
 
