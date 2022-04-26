@@ -5,7 +5,7 @@ from queue import Queue
 import logging
 
 import thingspeak
-
+from datetime import datetime
 q = []
 
 
@@ -68,9 +68,10 @@ logger=logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 channel = thingspeak.Channel(id = 1653570, api_key = 'AJ1AH5HRCRTN65SK' )
-
+otherlogger = open("log.csv","w")
+otherlogger.write("time, devices, added, removed \n")
 while True:
-    time.sleep(30)
+    time.sleep(15)
     print("queue length",len(q))
     curtime = time.time()
     added = add_new(curtime)
@@ -79,6 +80,13 @@ while True:
     unique = unique + added - removed
     print("unique: ",unique,"added: ",added, "removed: ", removed)
     logger.info("unique devices: "+str(unique))
+
+
+    now = datetime.now()
+
+    current_time = now.strftime("%H:%M:%S")
+    mystring = current_time+","+str(unique)+","+str(added)+","+str(removed)+"\n"
+    otherlogger.write(mystring)
     try:
         channel.update({'field1': unique, 'field2':footprint})
     except:
