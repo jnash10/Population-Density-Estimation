@@ -99,9 +99,9 @@ while True:
 
     csv_logger.agam([unique,added,removed])
 
-    
+    scaled = (100/320)(unique-40)    
     try:
-        channel.update({'field1': unique, 'field2':footprint})
+        channel.update({'field1': scaled, 'field2':footprint})
     except:
         time.sleep(15)
         
