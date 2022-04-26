@@ -87,7 +87,7 @@ while True:
     current_time = now.strftime("%H:%M:%S")
     mystring = current_time+","+str(unique)+","+str(added)+","+str(removed)+"\n"
     otherlogger.write(mystring)
-    scaled_unique = (100/320)(unique-40)
+    scaled_unique = (100/320)*(unique-40)
     try:
         channel.update({'field1': scaled_unique, 'field2':footprint})
     except:
