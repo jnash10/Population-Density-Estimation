@@ -80,7 +80,7 @@ level = logging.INFO
 fmt = '%(asctime)s,%(message)s'
 datefmt = '%Y/%m/%d %H:%M:%S'
 custom_additional_level = ['agam']
-header = ['date','devices','added','removed']
+header = ['date','devices','added','removed','scaled']
 
 ##creating the logger
 csv_logger = CsvLogger(filename=filename, level= level, fmt=fmt, datefmt=datefmt,header=header,add_level_names=custom_additional_level)
@@ -94,12 +94,14 @@ while True:
     removed = remove_old(curtime)
     
     unique = unique + added - removed
-    print("unique: ",unique,"added: ",added, "removed: ", removed)
+    
     logger.info("unique devices: "+str(unique))
 
-    csv_logger.agam([unique,added,removed])
+    
 
-    scaled = (100/320)(unique-40)    
+    scaled = int((100/320)*(unique-40))
+    csv_logger.agam([unique,added,removed,scaled])  
+    print("unique: ",unique,"added: ",added, "removed: ", removed, "scaled: ",scaled)
     try:
         channel.update({'field1': scaled, 'field2':footprint})
     except:
