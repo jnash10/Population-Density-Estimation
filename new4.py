@@ -63,7 +63,7 @@ def remove_old(curtime):
         except:
             return 0
 
-footprint = 60*7
+footprint = 60*4
 
 logging.basicConfig(filename='unqiuedevs.log', format='%(asctime)s %(message)s', filemode='w')
 logger=logging.getLogger()
