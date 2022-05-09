@@ -99,7 +99,7 @@ while True:
 
     
 
-    scaled = int((100/320)*(unique-40))
+    scaled = int((90/120)*(unique-40))
     csv_logger.agam([unique,added,removed,scaled])  
     print("unique: ",unique,"added: ",added, "removed: ", removed, "scaled: ",scaled)
     try:
