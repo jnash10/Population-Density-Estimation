@@ -11,7 +11,7 @@ file = open("problog.csv","r")
 
 #inititalise devices to 0
 devices = 0
-footprint = 0.05
+footprint = 4
 
 #threshold RSSI value
 rssi = -85
