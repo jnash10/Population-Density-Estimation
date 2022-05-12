@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import time
 import datetime
 import argparse
@@ -33,7 +31,6 @@ def build_packet_callback(time_fmt, logger, delimiter, mac_info, ssid, rssi):
 		# determine preferred time format 
 		log_time = str(int(time.time()))
 		if time_fmt == 'iso':
-			#log_time = datetime.datetime.now().isoformat()
 			log_time = datetime.now().isoformat()
 
 		fields.append(log_time)
@@ -66,8 +63,8 @@ def main():
 	parser.add_argument('-i', '--interface', help="capture interface")
 	parser.add_argument('-t', '--time', default='iso', help="output time format (unix, iso)")
 	parser.add_argument('-o', '--output', default='probemon.log', help="logging output location")
-	parser.add_argument('-b', '--max-bytes', default=1000000000, help="maximum log size in bytes before rotating")
-	parser.add_argument('-c', '--max-backups', default=1, help="maximum number of log files to keep")
+	parser.add_argument('-b', '--max-bytes', default=5000000, help="maximum log size in bytes before rotating")
+	parser.add_argument('-c', '--max-backups', default=99999, help="maximum number of log files to keep")
 	parser.add_argument('-d', '--delimiter', default='\t', help="output field delimiter")
 	parser.add_argument('-f', '--mac-info', action='store_true', help="include MAC address manufacturer")
 	parser.add_argument('-s', '--ssid', action='store_true', help="include probe SSID in output")
