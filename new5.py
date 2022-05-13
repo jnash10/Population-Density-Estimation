@@ -32,8 +32,8 @@ while True:
     lines = file.readlines()
     for line in lines:
         inputs = line.split(";")
-        if (inputs[2] != "UNKNOWN") and (int(inputs[3])>rssi) and (inputs[2] not in temp_table):
-            temp_table.add(inputs[2])
+        if (inputs[2] != "UNKNOWN") and (int(inputs[3])>rssi) and (inputs[1] not in temp_table):
+            temp_table.add(inputs[1])
             temp_dev+=1
             print("added", line)
     devices = temp_dev
