@@ -4,6 +4,7 @@
 
 import thingspeak
 import time
+from datetime import datetime
 
 channel = thingspeak.Channel(id = 1653570, api_key = 'B0BJI8HGQ4ZXY8DQ' )
 
@@ -18,10 +19,15 @@ rssi = -85
 
 while True:
     #update on thingspeak
+    
+
+    now = datetime.now()
+
+    current_time = now.strftime("%H:%M:%S")
     try:
-        channel.update({'field1': devices, 'field2':footprint})
+        channel.update({'field1': devices, 'field2':footprint, 'field3':current_time})
     except:
-        pass
+        print("update attempt failed\n devices: ",devices)
 
     #wait footprint minutes
     time.sleep(footprint*60)
